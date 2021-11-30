@@ -4,7 +4,7 @@ Here are a few things about me:
 - 🔭 I’m currently learning Machine Learning 👨‍💻
 - My favorite programming language is Python 🐍
 - I want to learn Deep Learning
--⚡ Fun fact: I have a YouTube channel where I talk about personal finance, news and more stuff.
+- ⚡ Fun fact: I have a YouTube channel where I talk about personal finance, news and more stuff.
 
 ### Connect with me:
 
@@ -19,6 +19,7 @@ Here are a few things about me:
 [instagram]: https://www.instagram.com/alexwems1/
 [linkedin]: https://www.linkedin.com/in/alejandro-sol%C3%ADs-pacheco-339b211a9/
 [youtube]: https://www.youtube.com/channel/UCQvCa6XnAWsVA4xctbMkGIw
+
 
 ### I'm currently coding in:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexwems1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
