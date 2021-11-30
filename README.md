@@ -6,6 +6,11 @@ Here are a few things about me:
 - I want to learn Deep Learning
 - ⚡ Fun fact: I have a YouTube channel where I talk about personal finance, news and more stuff.
 
+
+### I'm currently coding in:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexwems1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -20,8 +25,5 @@ Here are a few things about me:
 [linkedin]: https://www.linkedin.com/in/alejandro-sol%C3%ADs-pacheco-339b211a9/
 [youtube]: https://www.youtube.com/channel/UCQvCa6XnAWsVA4xctbMkGIw
 
-<br>
-### I'm currently coding in:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexwems1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
